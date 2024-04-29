@@ -12,5 +12,9 @@ public class Book {
 		return this.title;
 		
 	}
+	public String getAuthor() {
+		return this.Author;
+		
+	}
 
 }
